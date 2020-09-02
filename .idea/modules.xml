@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day01_demo2_servlet_new/day01_demo2_servlet_new.iml" filepath="$PROJECT_DIR$/day01_demo2_servlet_new/day01_demo2_servlet_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_servlet_demo/day01_servlet_demo.iml" filepath="$PROJECT_DIR$/day01_servlet_demo/day01_servlet_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_servlet_class/day02_servlet_class.iml" filepath="$PROJECT_DIR$/day02_servlet_class/day02_servlet_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_request/day03_request.iml" filepath="$PROJECT_DIR$/day03_request/day03_request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_Cookie_Session/day04_Cookie_Session.iml" filepath="$PROJECT_DIR$/day04_Cookie_Session/day04_Cookie_Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_Cookie_Session_Exercise/day04_Cookie_Session_Exercise.iml" filepath="$PROJECT_DIR$/day04_Cookie_Session_Exercise/day04_Cookie_Session_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_el_jstl/day05_el_jstl.iml" filepath="$PROJECT_DIR$/day05_el_jstl/day05_el_jstl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_case/user_case.iml" filepath="$PROJECT_DIR$/user_case/user_case.iml" />
+    </modules>
+  </component>
+</project>
